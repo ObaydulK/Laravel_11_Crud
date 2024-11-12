@@ -20,7 +20,7 @@
         <div class=" container m-auto  ">
 
             <div class=" flex justify-between bg-pink-300 p-4 rounded">
-                <h1>How</h1>
+                <h1>Create Your Post</h1>
                 <a class="btn btn-success p-2 bg-slate-600 text-white rounded font-bold " href="/create">Add more post</a>
             </div>
             @if (session('success'))
